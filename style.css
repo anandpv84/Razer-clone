@@ -745,7 +745,7 @@ body {
 
 }
 
-@media(max-width:750px) {
+@media(max-width:755px) {
     .anav {
         display: none;
     }
